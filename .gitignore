@@ -1,0 +1,5 @@
+.vscode/
+.vscode/*
+.VSCodeCounter/
+.VSCodeCounter/*
+include/*
